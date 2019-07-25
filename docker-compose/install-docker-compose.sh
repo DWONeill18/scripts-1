@@ -9,4 +9,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-
 #Apply executable permissions to the binary
 sudo chmod +x /usr/local/bin/docker-compose
 
-docker-compose --version
+sudo docker-compose --version
